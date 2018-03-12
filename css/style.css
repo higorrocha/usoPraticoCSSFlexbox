@@ -48,3 +48,10 @@ body {margin: 0px;}
     border-radius: 2px;
 }
 
+/*COLORS*/
+.colorOne {background-color: #be0056}
+.colorTwo {background-color: #900035}
+.colorThree {background-color: #ff9069}
+.colorFour {background-color:#df5042}
+.colorTextOne {color:#900035}
+.colorTextTwo {color:#df5042}
